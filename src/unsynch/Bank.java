@@ -3,6 +3,7 @@ package unsynch;
 public class Bank {
 
 	private final double[] accounts;
+	private final String[] strs;
 	
 	//初始化账户数量及账户余额
 	public Bank(int n, double initialBalance){
