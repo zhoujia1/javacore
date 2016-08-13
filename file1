@@ -4,3 +4,5 @@ baz
 
 在alternate分支中修改了本file1文件的内容了啊，哈哈哈哈
 在master分支中修改file1文件内容，造成与alternate中的文件冲突，然后进行冲突合并操作
+在alternate分支中修改file1文件内容，造成与master中的文件冲突，然后进行冲突合并操作
+在master和alternate分支中，产生冲突的两行都保留，并添加当前这一行作为冲突合并说明
