@@ -3,3 +3,4 @@ quux
 baz
 
 在alternate分支中修改了本file1文件的内容了啊，哈哈哈哈
+在alternate分支中修改file1文件内容，造成与master中的文件冲突，然后进行冲突合并操作
